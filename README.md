@@ -134,4 +134,3 @@ This project is created for educational purposes as part of a Web Programming co
 
 ---
 
-**Built with ❤️ for Web Programming Course**
