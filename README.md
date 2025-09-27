@@ -1,4 +1,4 @@
-# Student Management System 
+# Student Management System
 
 A complete PHP/MySQL web application for managing student records, built for Web Programming coursework.
 
